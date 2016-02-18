@@ -8,12 +8,12 @@ Idea Tips 中文翻译 - 《Idea每日一贴中文翻译》
 
 这里我们对Idea14.1.4提供的195个Tips进行了翻译，同时增加了一些使用小提示，方便大家查阅。
 
-如感兴趣，可以star或fork该[https://github.com/CoderRobin1987/idea-tips-zh](https://github.com/CoderRobin1987/idea-tips-zh "仓库")！
+如感兴趣，可以star或fork该[仓库](https://github.com/CoderRobin1987/idea-tips-zh)！
 
 Github：[https://github.com/CoderRobin1987/idea-tips-zh](https://github.com/CoderRobin1987/idea-tips-zh)
 
-GitBook：[https://coderrobin1987.gitbooks.io/idea-tips-zh/content/](https://coderrobin1987.gitbooks.io/idea-tips-zh/content/ "Idea Tips 中文翻译")
+GitBook：[Idea Tips 中文翻译](https://coderrobin1987.gitbooks.io/idea-tips-zh/content/)
 
-Email：CoderRobinJoe@gmail.com
+Email：[CoderRobinJoe@gmail.com](CoderRobinJoe@gmail.com)
 
-[https://github.com/CoderRobin1987/idea-tips-zh/blob/master/SUMMARY.md](https://github.com/CoderRobin1987/idea-tips-zh/blob/master/SUMMARY.md "点击这里开始")
+[点击这里开始](https://github.com/CoderRobin1987/idea-tips-zh/blob/master/SUMMARY.md)
