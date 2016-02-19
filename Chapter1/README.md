@@ -4,13 +4,13 @@ You can quickly get familiar with the main features of the IDE by reading these 
 
 2.To open any class in the editor quickly, press Ctrl+N (Navigate | Class) and start typing the name of the class. Choose the class from a drop-down list that appears. 
 
-	![2.png](../pic/2.png) 
+	![2.png](../pic/2.png)
 
 You can open any file in your project in a similar way by using Ctrl+Shift+N (Navigate | File) 
 
 3.The Code Completion feature lets you quickly complete different kinds of statements in the code. For example, start typing a class name and press Ctrl+空格 to complete it. When multiple choices are available, they are shown in the lookup list. 
 
-	![3.png](../pic/3.png) 
+	![3.png](../pic/3.png)
 
 4.You can quickly find all places where a particular class, method or variable is used in the whole project by positioning the caret at the symbol's name or at its usage in code and pressing Alt+F7 (Edit | Find | Find Usages in the popup menu). 
 
