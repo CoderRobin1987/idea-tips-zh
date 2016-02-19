@@ -15,3 +15,9 @@ GitBook：[Idea Tips 中文翻译](https://coderrobin1987.gitbooks.io/idea-tips-
 Email：[CoderRobinJoe@gmail.com](CoderRobinJoe@gmail.com)
 
 [点击这里开始](https://github.com/CoderRobin1987/idea-tips-zh/blob/master/SUMMARY.md)
+
+
+***
+
+贡献列表（按拼音排序）：
+  
