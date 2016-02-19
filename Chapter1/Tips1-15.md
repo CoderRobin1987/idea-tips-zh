@@ -2,11 +2,18 @@
 1.Welcome to IntelliJ IDEA 14
 You can quickly get familiar with the main features of the IDE by reading these tips. You may try out the features described in the tips while this dialog stays open on the screen. If you close the dialog, you can always get back to it from the Help | Tip of the Day main menu item.
 
+1.欢迎来到IntelliJ IDEA 14
+通过阅读这些tips，你能够快速的熟悉本IDE的主要特性。这个对话框在屏幕中打开的时候你仍然可以尝试提示中描述的特性。如果你关闭对话框，你仍然可以通过主菜单下的Help | Tip 选项找到它。
+
 2.To open any class in the editor quickly, press Ctrl+N (Navigate | Class) and start typing the name of the class. Choose the class from a drop-down list that appears. 
+
+2.想要快速的找到任何一个class类，按下Ctrl+N(Navigate | Class)键，然后输入class类的名字。从下拉列表中选择出现的那个类。
 
 ![2.png](../pic/2.png)
 
 You can open any file in your project in a similar way by using Ctrl+Shift+N (Navigate | File) 
+
+类似的，你可以通过Ctrl+Shift+N (Navigate | File) 打开项目中任意文件。
 
 3.The Code Completion feature lets you quickly complete different kinds of statements in the code. For example, start typing a class name and press Ctrl+空格 to complete it. When multiple choices are available, they are shown in the lookup list. 
 
