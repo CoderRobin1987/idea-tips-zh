@@ -1,0 +1,15 @@
+.classpath
+.project
+.settings/
+*/.classpath
+*/.gitignore
+*/.project
+*/.settings/
+bin/
+*/bin/
+target/
+*/target/
+*~
+*.bak
+*/_book/
+/_book/
