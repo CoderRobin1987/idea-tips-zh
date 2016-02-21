@@ -1,0 +1,3 @@
+76.	You can quickly open a Maven project by selecting a pom.xml file in the File | Open dialog. The corresponding Maven project is imported with default settings, without launching the wizard.
+
+77.	If you don't want to commit some of your changes to the repository, you can set them aside for a while, by moving to a separate changelist, or by putting them to a shelf. Select such file in the Local tab of the Changes tool window, and on the context menu choose Move to Another Changelist, or Shelve Changes. 
