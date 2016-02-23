@@ -8,3 +8,9 @@ When you commit a changelist, and type the check-in comment, make sure it matche
 ![](https://github.com/iammarine30/idea-tips-zh/blob/master/pic/91-2.png)
  
 Clicking a hyperlink brings you directly to an issue in your task tracker. 
+
+
+92.	IntelliJ IDEA simplifies your work with colors in CSS files. The color properties have the icons of the corresponding color in the left gutter area of the editor. 
+Click color icons to choose the desired color from the color picker. 
+ 
+![](https://github.com/iammarine30/idea-tips-zh/blob/master/pic/92.png)
