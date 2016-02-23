@@ -12,4 +12,6 @@ target/
 *~
 *.bak
 */_book/
+*/.idea/
 /_book/
+*.docx
