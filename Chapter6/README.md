@@ -10,7 +10,7 @@
 
 81.To quickly find and run an inspection, press Ctrl+Alt+Shift+I and start typing the name of the inspection or its group. Choose the desired inspection from the suggestion list and then specify the desired scope. 
 
-82.	You can quickly find a setting you need in the Settings/Preferences dialog, without browsing through the numerous options. Just type some characters that, in your opinion, exist in the option description, and the list of settings will reduce to the matching ones. Select the desired entry, and see the setting that contains the entered characters highlighted:
+82.You can quickly find a setting you need in the Settings/Preferences dialog, without browsing through the numerous options. Just type some characters that, in your opinion, exist in the option description, and the list of settings will reduce to the matching ones. Select the desired entry, and see the setting that contains the entered characters highlighted:
 
 83.You can create code constructs using statement completion. Start typing a method declaration or a statement, and press Ctrl+Shift+Enter after the opening parenthesis. The braces are created, with the caret placed inside: 
 
