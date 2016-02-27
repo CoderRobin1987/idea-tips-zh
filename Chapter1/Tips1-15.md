@@ -3,7 +3,7 @@
 You can quickly get familiar with the main features of the IDE by reading these tips. You may try out the features described in the tips while this dialog stays open on the screen. If you close the dialog, you can always get back to it from the Help | Tip of the Day main menu item.
 
 1.欢迎来到IntelliJ IDEA 14
-通过阅读这些tips，你能够快速的熟悉本IDE的主要特性。这个对话框在屏幕中打开的时候你仍然可以尝试提示中描述的特性。如果你关闭对话框，你仍然可以通过主菜单下的Help | Tip 选项找到它。
+通过阅读这些tips，你能够快速的熟悉本IDE的主要特性。你可边参考对话框中的描述，边进行操作。如果你关闭对话框，你仍然可以通过主菜单下的Help | Tip 选项找到它。
 
 2.To open any class in the editor quickly, press Ctrl+N (Navigate | Class) and start typing the name of the class. Choose the class from a drop-down list that appears. 
 
