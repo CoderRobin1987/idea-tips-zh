@@ -8,6 +8,7 @@ Use the same context menu item to see the history of changes on a directory. You
 34.	Press Alt+Q (View | Context Info) to see the declaration of the current method without the need to scroll to it. 
 35.	Ctrl+E (View | Recent Files) brings a popup list of the recently visited files. Choose the desired file and press Enter to open it. 
  
+![35.png](../pic/35.png)
 Besides recent files, you can bring up results of the usage searches you have performed recently. To do that, use the same Ctrl+E shortcut with the Find tool window having the focus, and select the desired find usages result from the Recent Find Usages popup. 
  
 36.	Use F2/Shift+F2 keys to jump between highlighted syntax errors. 
