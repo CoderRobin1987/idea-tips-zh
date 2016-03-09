@@ -26,4 +26,4 @@ To skip warnings right click on the validation side bar / marker bar and choose 
 44.	To see the inheritance hierarchy for a selected class, press Ctrl+H (Navigate | Type Hierarchy). You can also invoke the hierarchy view right from the editor to see the hierarchy for the currently edited class. 
  
 45.	Right-clicking on a breakpoint marker (on the bar to the left from the text) invokes the speedmenu where you can quickly enable/disable the breakpoint or adjust its properties. 
- 
+
