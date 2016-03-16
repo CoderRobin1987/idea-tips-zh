@@ -1,19 +1,25 @@
 106.To compare two directories, select one or both of them in the Project view and press Ctrl+D. 
+
 107.To compare two jar files, select one or both of them in the Project view and press Ctrl+D. 
+
 108.If you need more workspace, you can hide the tool windows bars: click  in the lower left corner. 
 If necessary, you can show the tool window buttons just for a moment. To do that, press the key Alt (for Windows/*nix) or Command (for Mac) twice and keep it down. While the key is pressed, the tool window buttons are visible. 
+
 109.	You can exclude any file from your project. As a result, such a file will be ignored by indexing, inspection and code completion. 
 In the Project tool window, select the file you want to ignore, and choose Mark as plain text in its context menu. 
 If necessary, you can always return the file to its original type using the Mark as <file type> context menu command. 
+
 110.When using basic code completion (Ctrl+空格), you don't need to type upper-case letters in CamelHump names. It is enough to type the initial letters of the camel names in lower case, and they will be smartly recognized. 
 
  ![](../pic/110.png)
  
 111.The keyboard shortcut Ctrl+K enables you to quickly invoke the Commit Changes dialog. 
 This dialog shows all modifications in project, gives summary information of file status and suggests improvements before check-in. 
+
 112.It is very easy to toggle between find and replace functionality. 
 When you perform search and replace in a file, pressing Ctrl+F shows the search pane. Pressing Ctrl+R adds field, where you can type the replace string. 
 While in the Find in Path dialog, you can switch to replace by pressing Ctrl+Shift+R. Same way, press Ctrl+Shift+F to hide the Replace with field, and switch to mere search. 
+
 113.If you are working on a large project, with numerous TODO items, filter them by scopes. 
 Use the Scope-Based tab in the TODO tool window to show only those items that pertain to the scope of interest. 
 
